@@ -12,7 +12,7 @@ If you are new to Chatbot check out there site at [Chatbot](https://www.chatbot.
 We will be using the Webhook integration method provided by Chatbot
 
 ### Create a Webhook Server
-This repo contains a sample Express server which provides a webhook endpoint for sentiment analysis.
+This [repo](https://github.com/FirstLanguage/extend-chatbot.git) contains a sample NodeJS Express server which provides a webhook endpoint for sentiment analysis.
 
 Clone the repo in your system and run below command to install all dependencies
 
