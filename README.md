@@ -5,7 +5,7 @@ If you are an existing customer of Chatbot or new, you can make use of our Class
 You can inlcude sentiment analysis or general text classification usign the same API. We have given how to implement sentiment analysis with our API below.
 
 ## Chatbot
-If you are new to Chatbot check out there site at https://www.chatbot.com/
+If you are new to Chatbot check out there site at [Chatbot](https://www.chatbot.com/)
 
 ## Let's jump into the implementation
 
@@ -40,7 +40,6 @@ You can use NGROK to expose your localhost server to Chatbot. Run the below comm
 
 ```
 ngrok http 3000
-
 ```
 
 ## Chatbot console operations

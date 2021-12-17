@@ -24,7 +24,12 @@
     h5,
     h6 {
       color: #0f222d;
-    }      
+    }          
+  }
+
+  .language-plaintext{
+    background-color: #0f222d;
+    color: #fff5d0;
   }
 // Breakpoints
 $large-breakpoint: 64em !default;
