@@ -51,16 +51,16 @@ Below are few screenshots for your reference:
 
 PFB a sampel Story for our Chatbot to work
 
-![Story](/extend-chatbot/images/chatbot2.png)
+![Story](/images/chatbot2.png)
 
 Select the webhook you craeted in the Integerations window.
 
-![Webhook](/extend-chatbot/images/chatbot3.png)
+![Webhook](/images/chatbot3.png)
 
 User input can be configured like below
 
-![User Input](/extend-chatbot/images/chatbot4.png)
+![User Input](/images/chatbot4.png)
 
 Final output of our Chatbot app
 
-![Chatbot](/extend-chatbot/images/chatbot1.png)
+![Chatbot](/images/chatbot1.png)
