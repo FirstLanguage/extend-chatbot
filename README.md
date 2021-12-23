@@ -2,10 +2,10 @@
 
 If you are an existing customer of Chatbot or new, you can make use of our Classification API to extend your Chatbot.
 
-You can inlcude sentiment analysis or general text classification usign the same API. We have given how to implement sentiment analysis with our API below.
+You can inlcude sentiment analysis or general text classification usign the same API. We have provided steps to implement sentiment analysis with our API below.
 
 ## Chatbot
-If you are new to Chatbot check out there site at [Chatbot](https://www.chatbot.com/)
+If you are new to Chatbot check out their site at [Chatbot](https://www.chatbot.com/)
 
 ## Let's jump into the implementation
 
@@ -44,18 +44,18 @@ ngrok http 3000
 
 ## Chatbot console operations
 
-We are assuming the steps to create Chatbot stories and other fucntions are known. If not please refer thier documentation page. 
+We are assuming the steps to create Chatbot stories and other fucntions are known. If not please refer their documentation page. 
 
 You can check below for a short demo
 {% include youtubePlayer.html %}
 
 Below are few screenshots for your reference:
 
-PFB a sampel Story for our Chatbot to work
+PFB a sample Story for our Chatbot to work
 
 ![Story](/images/chatbot2.png)
 
-Select the webhook you craeted in the Integerations window.
+Select the webhook you created in the Integrations window.
 
 ![Webhook](/images/chatbot3.png)
 
